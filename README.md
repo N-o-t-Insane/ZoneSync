@@ -24,6 +24,13 @@ A discord bot for converting from a time zone to another
   <h6>t!help</h6>
 </div>
 
+<h1>Examples</h1> 
+<img src="https://i.imgur.com/90Solof.png">
+<img src="https://i.imgur.com/C0cLo87.png">
+<img src="https://i.imgur.com/e7P927Z.png">
+<img src="https://i.imgur.com/AqgXKqx.png">
+
+
 <h1>Avalible time zones</h1> 
 
 <ul> 

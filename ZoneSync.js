@@ -99,7 +99,7 @@ client.on("messageCreate", message => {
         time_clone = time;
         time_out = "";
         
-        time_out += `UTC ${Math.floor(time / 60 %24)}:`; if(time%60==0){ time_out += `00 \n` } else {time_out += `${time % 60} \n`}
+        //time_out += `UTC ${Math.floor(time / 60 %24)}:`; if(time%60==0){ time_out += `00 \n` } else {time_out += `${time % 60} \n`}
         
         if(!isNaN(time)){
 
